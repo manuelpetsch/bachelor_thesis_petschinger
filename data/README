@@ -1,0 +1,1 @@
+Due to the high memory requirements, only the Reddit data of the five analysed stocks was uploaded. For the same reason, it was not possible to upload the historical prices and the preprocessed financial data. However, by running the notebook 1_financial_data_preprocessing.ipynb, this data can be retrieved.
